@@ -6,7 +6,7 @@
 -[Conclusion](#conclusion)
 
 ## Overview
-Our project, ** RAMQA**  relies on eye-tracking technology to enable users to control a computer mouse using only their eye movements, without the need for hand movements. The primary objective of our project is to assist individuals with paralysis or severe mobility impairments in using technology, interacting with computers, and living their lives more independently. The application of this technology significantly improves the quality of life for these individuals, providing them with the ability to communicate and perform daily tasks with ease.Overall, through RAMQA we aspire to offer an advanced technological solution that opens new possibilities for people with special needs and enhances the role of technology in improving human life
+Our project, **RAMQA**  relies on eye-tracking technology to enable users to control a computer mouse using only their eye movements, without the need for hand movements. The primary objective of our project is to assist individuals with paralysis or severe mobility impairments in using technology, interacting with computers, and living their lives more independently. The application of this technology significantly improves the quality of life for these individuals, providing them with the ability to communicate and perform daily tasks with ease.Overall, through RAMQA we aspire to offer an advanced technological solution that opens new possibilities for people with special needs and enhances the role of technology in improving human life
 
 ## Dataset Description
 
