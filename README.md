@@ -12,8 +12,6 @@ Our project, ** RAMQA**  relies on eye-tracking technology to enable users to co
 
 Initially, we experimented with various pre-existing datasets, including GazeCapture, Synthetic Gaze and Face Segmentation datasets, and EVE (End-to-end Video-based Eye- tracking) datasets. However, we encountered challenges due to the enormous size of these datasets, such as GazeCapture, which includes data from 1,450 individuals and approximately 2.5 million frames. Due to these constraints, we adapted our collection methods and decided to create our own datasets. In our approach, we create our datasets by create a code that saved the results of coordinates with each selected points of landmark points in CSV files, then used PyCaret to evaluate different machine learning models, aiming to learn from the relationships between the (X, Y) coordinates of the mouse and facial landmarks. This method allowed us to manage data size more effectively and tailor our dataset to the specific needs of our project.
 
-## Project Workflow
-work on it
 
 ## Conclusion
 RAMQA project enhances the lives of individuals with severe mobility impairments by leveraging advanced eye-tracking technology. It empowers users to control digital interfaces through eye movements, increasing their independence and social integration while improving their overall quality of life.
